@@ -1,0 +1,10 @@
+- Filtro para 'rt'
+- 1975 tweets
+	-1250 Treinamento
+	-725 Teste
+- 5 categorias
+	-Muito relevante   (4)
+	-Relevante         (3)
+	-Irrelevante       (2)
+	-Muito irrelevante (1)
+	-Deal              (0)
